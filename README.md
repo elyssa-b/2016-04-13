@@ -1,6 +1,6 @@
 # Git DIB training part 2
 
-This is an edit from github
+This is an edit from [Github](www.github.com)
 
 Today we will discuss
 - conflicts
