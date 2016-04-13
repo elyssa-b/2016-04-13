@@ -13,3 +13,4 @@ To search for where the conflict is look for <<<<<< or >>>>>> in the file
 - edit the file until you are happy with it
 - use the commands at the bottom of the editor to make changes quickly
 
+I am on the fix_branch_link
