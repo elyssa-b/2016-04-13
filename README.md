@@ -1,4 +1,4 @@
-# Git DIB training part II
+# Git DIB training part 2
 
 This is an edit from github
 
